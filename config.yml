@@ -87,7 +87,7 @@ params:
     - name: twitter
       url: 'https://twitter.com/lassekt'
     - name: github
-      url: 'https://github.com/git18n-blog'
+      url: 'https://github.com/lassegit/git18n-blog'
 
   analytics:
     google:
