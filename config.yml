@@ -1,7 +1,7 @@
-baseURL: 'https://examplesite.com/'
+baseURL: 'https://git18n-blog.onrender.com'
 title: git18n.com
 languageCode: en
-paginate: 10
+paginate: 20
 theme: PaperMod
 
 enableRobotsTXT: true
